@@ -1,1 +1,9 @@
-
+body {background-color: #2C8CCC;}
+figure{width: 400px; float: right; padding: 5px;}
+img {border: 1px solid black;}
+figcaption {font-family: Times; font-size: 16px;}
+h1 {font-family: Arial, Times;}
+h2 {font-family: Arial, Times;}
+#byline p {font-family: Arial, Times;}
+p {font-family: Courier; font-size: 100%;}
+blockquote {font-family: Courier; 100%;}
